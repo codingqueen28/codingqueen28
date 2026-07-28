@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @codingqueen28
-- 👀 I’m interested in violin, computer science, and changing the world.
-- 🌱 I’m currently learning Java and Python.
-- 💞️ I’m looking to collaborate on anything positive and purposeful.
-- 📫 How to reach me ...
+# Hi! I'm Amanda Wachuku!
 
-<!---
-codingqueen28/codingqueen28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Junior at Southern Methodist University (Pony up! 🐎) studying Electrical and Computer Engineering. 
+
+## About Me
+I enjoy diving deep into issues of health and society and creating simple and viable solutions for everyday problems. I belive there is strength in diversity and enjoy collaborating with people from different backgrounds and skill sets. I enjoy using my AI/ML skills to create smart, data-driven solutions. I work in Python, Java, HTML/CSS/JS, and Swift. I am interested in collaborating on projects and furthering health and humanity.  
+
+You can reach out to me to connect on [LinkedIN](www.linkedin.com/in/amanda-wachuku) and at this email: awachuku@smu.edu
