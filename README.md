@@ -21,5 +21,5 @@ I believe the era of AI/ML driven solutions should yield solutions that benefit 
 - Public Policy and International Affairs
 - Genetics and Biotechnology
 ## Contact Information
-- Connect with me on [Amanda Wachuku] (www.linkedin.com/in/amanda-wachuku)
+- Connect with me on LinkedIN at (www.linkedin.com/in/amanda-wachuku)
 - Or message me via email at: awachuku@smu.edu
