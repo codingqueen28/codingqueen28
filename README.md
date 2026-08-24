@@ -1,8 +1,25 @@
 # Hi! I'm Amanda Wachuku!
 
-I'm a Junior at Southern Methodist University (Pony up! 🐎) studying Electrical and Computer Engineering. I am an aspiring AI/ML engineer in healthcare and public interest technology.
+I'm a Junior at Southern Methodist University (Pony up! 🐎) studying Electrical and Computer Engineering with a Biomedical specialization and Public Policy and International Affairs (Class of 2028). I am an aspiring AI/ML engineer in healthcare and public interest technology and look forward to using my expertise to influence digital and AI policy. 
 
 ## About Me
-I enjoy diving deep into issues of health and society and creating simple and viable solutions for everyday problems. I belive there is strength in diversity and enjoy collaborating with people from different backgrounds and skill sets. I enjoy using my AI/ML skills to create smart, data-driven solutions. I work in Python, Java, HTML/CSS/JS, and Swift. I am interested in collaborating on projects and furthering health and humanity.  
+I belive the era of AI/ML driven solutions should yield solutions that benefit consumers and producer equally. So, I create AI/ML driven solutions that target the concerns and needs of individuals, communties, and businesses. I have a passion for healthcare and society and am interested in biotechnology, public interest tech, and social justice advocacy. I belive there is strength in diversity and enjoy collaborating with people from different backgrounds and skill sets.
 
-You can reach out to me to connect on [LinkedIN](www.linkedin.com/in/amanda-wachuku) and at this email: awachuku@smu.edu
+## Tech Stack
+- Python 🐍
+- Java 🍵
+- HTML/CSS/JS 🖥️
+- Pandas 🐼
+- Scikit-learn 🔎
+- Jupyter notebook 🪐
+- VS Code 😀
+  
+## Key Projects
+
+## Hobbies and  Interests
+- Biomedical Engineering Society
+- Public Policy and International Affairs
+- Genetics and Biotechnology
+## Contact Information
+- Connect with me on [Amanda Wachuku] (www.linkedin.com/in/amanda-wachuku)
+- Or message me via email at: awachuku@smu.edu
