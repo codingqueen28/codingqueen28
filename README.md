@@ -17,13 +17,20 @@ I believe the era of AI/ML driven solutions should yield solutions that benefit 
   
 ## Key Projects
 - [Hair Type App](https://github.com/codingqueen28/hair-type-app) - ML model made via Teachable Machine that helps people of kinky and curly hair textures determine their hair types by uploading an image
-- [POCinterest](https://github.com/codingqueen28/POCinterest) - Pinterest-like social media app demo made with Swift that promotes the businesses, styles, and contributions of communities of color
+- [POCinterest](https://github.com/codingqueen28/POCinterest) - Pinterest-like social media app demo made with Swift that promotes the businesses, styles, and contributions of communities of color (co-created with others). 
+- [True Story](https://github.com/codingqueen28/True-Story) - HTML/CSS/JS built interactive website that explains the Christian Christmas story in a clear, fun, and relatable way
   
 ## Hobbies and  Interests
 - Biomedical Engineering Society
-- Public Policy and International Affairs
+- Public Policy and International Affairs ([Tower Scholar](https://www.smu.edu/dedman/research/institutes-and-centers/tower-center/students/nexpoint-tower-scholars-program))
 - Genetics and Biotechnology
-  
+
+## Organization and Community Involvement in Tech
+- Break Through Tech
+- Google Code Next
+- Girls Who Code
+- Kode With Klossy
+
 ## Contact Information
 - Connect with me on LinkedIN at www.linkedin.com/in/amanda-wachuku
 - Or message me via email at: awachuku@smu.edu
